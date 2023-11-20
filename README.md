@@ -1,20 +1,33 @@
- # Data-Analyst-Project
-# My work:
-  Writing Queries, Creating Report, Data Cleaning, Data Processing, Data Visualization, Dashbord
-# Tools: Excel, SQL Server, PowerBI
-PROBLEM STATEMENT 
-KPI's REQUIREMENT
-Analyze key indicators for the pizza sales data to gain insights into the business performance. Specifically, calculate the following metrics: 
-1. Total Revenue: The sum of the total price of all pizza orders.
-2. Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
-3. Total Pizzas Sold: The sum of the quantities of all pizzas sold.
-4. Total Orders: The total number of orders placed.
-5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
-Visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts: 
-1.Daily Trend for Total Orders: Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumes on a daily basis.
-2.Monthly Trend for Total Orders: Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high order activity.
-3.Percentage of Sales by Pizza Category: Create a pie chart that shows the distribution of sales across different pizza categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
-4.Percentage of Sales by Pizza Size: Generate a pie chart that represents the percentage of sales attributed to different pizza sizes. This chart will help us understand customer preferences for pizza sizes and their impact on sales. 
-5.Total Pizzas Sold by Pizza Category: Create a funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza categories. 
-6.Top 5 Best Sellers by Revenue, Total Quantity and Total Orders Create a bar chart highlighting the top 5 best-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will help us identify the most popular pizza options. 
-7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
+ # Pizza Sales Analysis
+
+ 
+## Table Of Content
+
+-[Project Overview](Project-Overview)
+
+
+
+ # Project Overview 
+ This data analysis project aims to provide insights into the sales performance of Pizza shop over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance. 
+ ### Data Sources Sales Data:
+ The primary dataset used for this analysis is the "pizza_sales.csv" file, containing detailed information about each sale made by the company. 
+ ### Tools 
+ • Excel - Data Cleaning  
+ • SQL Server - Data Analysis     
+ • PowerBI - Creating reports 
+ ### Data Cleaning/Preparation
+ In the initial data preparation phase, we performed the following tasks:
+ 1. Data loading and inspection.
+ 2. Handling missing values.
+ 3. Data cleaning and formatting.
+    
+  ### Exploratory Data Analysis 
+Exploring the sales data to answer key questions, such as: 
+-Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order
+1.Daily Trend for Total Orders
+2.Monthly Trend for Total Orders
+3.Percentage of Sales by Pizza Category
+4.Percentage of Sales by Pizza Size
+5.Total Pizzas Sold by Pizza Category 
+6.Top 5 Best Sellers by Revenue
+7. Bottom 5 Best Sellers by Revenue
