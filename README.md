@@ -1,5 +1,6 @@
  # Data-Analyst-Project
-My work: Writing Queries, Creating Report, Data Cleaning, Data Processing, Data Visualization, Dashbord
+# My work:Writing Queries, Creating Report, Data Cleaning, Data Processing, Data Visualization, Dashbord
+# Tools: Excel, SQL Server, PowerBI
 PROBLEM STATEMENT 
 KPI's REQUIREMENT
 Analyze key indicators for the pizza sales data to gain insights into the business performance. Specifically, calculate the following metrics: 
